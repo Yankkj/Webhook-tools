@@ -1,0 +1,7 @@
+Primeiro, abra o terminal na pasta do projeto e digite o comando "pip install -r requirements.txt" para instalar as dependências. 
+Depois que a instalação terminar, execute o comando "python webhook.py" para iniciar o aplicativo.
+
+
+
+First, open the terminal in the project folder and type the command "pip install -r requirements.txt" to install the dependencies. 
+Once the installation is complete, run the command "python webhook.py" to start the application.
