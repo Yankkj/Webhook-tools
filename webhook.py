@@ -33,7 +33,7 @@ logo = """
 ██║░░╚██╗██║░░██║██║╚████║
 ╚██████╔╝╚█████╔╝██║░╚███║
 ░╚═════╝░░╚════╝░╚═╝░░╚══╝
-    >> [Webhook Multitool developed by @Imundar]
+    >> [Webhook Multitool developed by @34sp]
 """
 
 for platform, info in socials.items():
