@@ -8,6 +8,7 @@ pip install -r requirements.txt
 - Run the python file `webhook.py`
 
 # MENTIONS
-- [webhook tools by Imundar](https://github.com/Yankkj)
+- [webhook tools by Gon](https://github.com/Yankkj)
 
 - [Discord Webhook API Docs](https://discord.com/developers/docs/resources/webhook)
+
