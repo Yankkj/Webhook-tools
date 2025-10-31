@@ -219,7 +219,7 @@ def spamhook(url):
 
 # injecting antiskid into your pc, no skidding kid :)
 with open(f"{os.getcwd()}\\src\\skidded.txt", "w+") as file:
-    content = "Greetings user, this file has been originally developed by Imundar. You can find him here:\n"
+    content = "Greetings user, this file has been originally developed by Revivem. You can find him here:\n"
 
     for platform, info in socials.items():
         content += f"{info['link']}\n"
@@ -310,3 +310,4 @@ while True:
                         print("Invalid input. Please enter 'y' or 'n'.")
                 else:
                     print("Platform not found. Please enter a valid platform.")
+
